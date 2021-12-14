@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "firstname": "Kiss",
+      "lastname": "Anikó",
+      "birth": "1978.08.06",
+      "email": "aniko.kiss@gmail.com",
+      "id": 1
+    },
+    {
+      "firstname": "Ács",
+      "lastname": "József",
+      "birth": "1967.10.03",
+      "email": "acs.jozs@vipmail.hu",
+      "id": 2
+    }
+  ]
+}
